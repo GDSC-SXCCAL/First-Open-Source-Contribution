@@ -60,12 +60,18 @@
 
  - step 6
 <p>
+  <img width="900" src="https://raw.githubusercontent.com/GDSC-SXCCAL/First-Open-Source-Contribution/main/img/Screenshot%202022-09-22%20at%201.47.48%20AM.png" alt="cli output"/>
+   </p>
+<hr/>
+
+- step 7
+<p>
   <img width="900" src="https://raw.githubusercontent.com/GDSC-SXCCAL/First-Open-Source-Contribution/main/img/Screenshot%202022-09-22%20at%201.48.16%20AM.png" alt="cli output"/>
    </p>
 <hr/>
 
 
- - step 7
+ - step 8
 <p>
   <img width="900" src="https://raw.githubusercontent.com/GDSC-SXCCAL/First-Open-Source-Contribution/main/img/Screenshot%202022-09-22%20at%201.49.13%20AM.png" alt="cli output"/>
    </p>
