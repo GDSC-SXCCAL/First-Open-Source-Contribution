@@ -1,1 +1,0 @@
-# Sayantan Ghosh
