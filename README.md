@@ -43,6 +43,7 @@
 <p>
   <img width="900" src="https://raw.githubusercontent.com/GDSC-SXCCAL/First-Open-Source-Contribution/main/img/Screenshot%202022-09-22%20at%207.52.05%20PM.png" alt="cli output"/>
  </p>
+ You can also edit the file using Vs code web editor by simply pressing '.' key or change the url as https://github.dev/DeRoyace/First-Open-Source-Contribution
 <hr/>
 
 
@@ -76,4 +77,3 @@
   <img width="900" src="https://raw.githubusercontent.com/GDSC-SXCCAL/First-Open-Source-Contribution/main/img/Screenshot%202022-09-22%20at%201.49.13%20AM.png" alt="cli output"/>
    </p>
 <hr/>
-
